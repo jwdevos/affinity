@@ -1,5 +1,5 @@
 # Affinity symbol set
-Free 2D symbols for computer network diagrams. Forked from https://github.com/ecceman/affinity. 
+SVG files for computer networking symbols. Forked from https://github.com/ecceman/affinity. 
 
 ## Why?
 Simple. I wanted modern, crisp, pixel-perfect, printable, manufacturer independent symbols for computer-network topology that does not look like they were made in the 80s. 
